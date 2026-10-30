@@ -1,0 +1,6138 @@
+{
+  "id": "builtin-2026-09-12-1009",
+  "name": "IELTS Speaking · Sep–Dec 2026",
+  "version": "10.09",
+  "publisher": "新航道国际教育集团教学与考试研究院",
+  "notice": "Imported from your authorized OCR source. This private validation edition is not an official IELTS paper. Source wording still requires final editorial review.",
+  "authorization": "Public built-in distribution authorized, as confirmed by the product owner in chat.",
+  "source_sha256": "0e31221655c90b84727e90d4b465951beb0602d3f35233a229d68cbb8486ebd5",
+  "questions": [
+    {
+      "part": 1,
+      "topic": "Hometown",
+      "subgroup": "",
+      "text": "Where is your hometown?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0001",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Hometown",
+      "subgroup": "",
+      "text": "Is that a big city or a small place?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0002",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Hometown",
+      "subgroup": "",
+      "text": "Please describe your hometown a little.",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0003",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Hometown",
+      "subgroup": "",
+      "text": "How long have you been living there?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0004",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Hometown",
+      "subgroup": "",
+      "text": "Do you think you will continue living there for a long time?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0005",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Hometown",
+      "subgroup": "",
+      "text": "Do you like your hometown?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0006",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Hometown",
+      "subgroup": "",
+      "text": "Do you like living there?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0007",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Hometown",
+      "subgroup": "",
+      "text": "What do you like (most) about your hometown?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0008",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Hometown",
+      "subgroup": "",
+      "text": "Is there anything you dislike about it?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0009",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Hometown",
+      "subgroup": "",
+      "text": "What's your hometown famous for?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0010",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Hometown",
+      "subgroup": "",
+      "text": "Did you learn about the history of your hometown at school?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0011",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Hometown",
+      "subgroup": "",
+      "text": "Are there many young people in your hometown?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0012",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Hometown",
+      "subgroup": "",
+      "text": "Is your hometown a good place for young people to pursue their careers?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0013",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Hometown",
+      "subgroup": "",
+      "text": "Have you learned anything about the history of your hometown?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0014",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Hometown",
+      "subgroup": "",
+      "text": "Did you learn about the culture of your hometown in your childhood?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0015",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Work or Studies",
+      "subgroup": "Work",
+      "text": "What work do you do?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0016",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Work or Studies",
+      "subgroup": "Work",
+      "text": "Why did you choose to do that type of work (or that job)?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0017",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Work or Studies",
+      "subgroup": "Work",
+      "text": "Do you like your job?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0018",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Work or Studies",
+      "subgroup": "Work",
+      "text": "What requirements did you need to meet to get your current job?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0019",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Work or Studies",
+      "subgroup": "Work",
+      "text": "Do you have any plans for your work in the next five years?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0020",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Work or Studies",
+      "subgroup": "Work",
+      "text": "What do you think is the most important at the moment?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0021",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Work or Studies",
+      "subgroup": "Work",
+      "text": "Do you want to change to another job?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0022",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Work or Studies",
+      "subgroup": "Work",
+      "text": "Do you miss being a student?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0023",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Work or Studies",
+      "subgroup": "Work",
+      "text": "What technology do you use at work?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0024",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Work or Studies",
+      "subgroup": "Work",
+      "text": "Who helps you the most? And how?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0025",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Work or Studies",
+      "subgroup": "Study",
+      "text": "What subjects are you studying?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0026",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Work or Studies",
+      "subgroup": "Study",
+      "text": "Do you like your subject?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0027",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Work or Studies",
+      "subgroup": "Study",
+      "text": "Why did you choose to study that subject?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0028",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Work or Studies",
+      "subgroup": "Study",
+      "text": "Do you think that your subject is popular in your country?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0029",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Work or Studies",
+      "subgroup": "Study",
+      "text": "Do you have any plans for your studies in the next five years?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0030",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Work or Studies",
+      "subgroup": "Study",
+      "text": "What are the benefits of being your age?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0031",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Work or Studies",
+      "subgroup": "Study",
+      "text": "Do you want to change your major?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0032",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Work or Studies",
+      "subgroup": "Study",
+      "text": "Do you prefer to study in the mornings or in the afternoons?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0033",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Work or Studies",
+      "subgroup": "Study",
+      "text": "How much time do you spend on your studies each week?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0034",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Work or Studies",
+      "subgroup": "Study",
+      "text": "Are you looking forward to working?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0035",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Work or Studies",
+      "subgroup": "Study",
+      "text": "What technology do you use when you study?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0036",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Work or Studies",
+      "subgroup": "Study",
+      "text": "What changes would you like to see in your school?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0037",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Home/Accommodation",
+      "subgroup": "",
+      "text": "What kind of house or apartment do you want to live in in the future?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0038",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Home/Accommodation",
+      "subgroup": "",
+      "text": "Are the transport facilities to your home very good?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0039",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Home/Accommodation",
+      "subgroup": "",
+      "text": "Do you prefer living in a house or an apartment?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0040",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Home/Accommodation",
+      "subgroup": "",
+      "text": "Please describe the room you live in.",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0041",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Home/Accommodation",
+      "subgroup": "",
+      "text": "What part of your home do you like the most?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0042",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Home/Accommodation",
+      "subgroup": "",
+      "text": "How long have you lived there?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0043",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Home/Accommodation",
+      "subgroup": "",
+      "text": "What's the difference between where you are living now and where you have lived in the past?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0044",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Home/Accommodation",
+      "subgroup": "",
+      "text": "Do you plan to live there for a long time?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0045",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Home/Accommodation",
+      "subgroup": "",
+      "text": "Can you describe the place where you live?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0046",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Home/Accommodation",
+      "subgroup": "",
+      "text": "What room does your family spend most of the time in?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0047",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Home/Accommodation",
+      "subgroup": "",
+      "text": "What's your favorite room in your apartment/house?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0048",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Home/Accommodation",
+      "subgroup": "",
+      "text": "What makes you feel pleasant in your home?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0049",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Home/Accommodation",
+      "subgroup": "",
+      "text": "Do you think it is important to live in a comfortable environment?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0050",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Home/Accommodation",
+      "subgroup": "",
+      "text": "Do you live in an apartment or a house?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0051",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Home/Accommodation",
+      "subgroup": "",
+      "text": "Who do you live with?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0052",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Home/Accommodation",
+      "subgroup": "",
+      "text": "What do you usually do in your apartment?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0053",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Home/Accommodation",
+      "subgroup": "",
+      "text": "What kinds of accommodation do you live in?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0054",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "The area you live in",
+      "subgroup": "",
+      "text": "Do you like the area that you live in?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0055",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "The area you live in",
+      "subgroup": "",
+      "text": "Where do you like to go in that area?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0056",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "The area you live in",
+      "subgroup": "",
+      "text": "Do you know any famous people in your area?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0057",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "The area you live in",
+      "subgroup": "",
+      "text": "What are some changes in the area recently?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0058",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "The area you live in",
+      "subgroup": "",
+      "text": "Do you know any of your neighbors?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0059",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "The area you live in",
+      "subgroup": "",
+      "text": "Are the people in your neighborhood nice and friendly?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0060",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "The area you live in",
+      "subgroup": "",
+      "text": "Do you live in a noisy or a quiet area?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0061",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "The city you live in",
+      "subgroup": "",
+      "text": "What city do you live in?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0062",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "The city you live in",
+      "subgroup": "",
+      "text": "Do you like this city? Why?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0063",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "The city you live in",
+      "subgroup": "",
+      "text": "How long have you lived in this city?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0064",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "The city you live in",
+      "subgroup": "",
+      "text": "Are there big changes in this city?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0065",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "The city you live in",
+      "subgroup": "",
+      "text": "Is this city your  permanent residence?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0066",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "The city you live in",
+      "subgroup": "",
+      "text": "Are there people of different ages living in this city?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0067",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "The city you live in",
+      "subgroup": "",
+      "text": "Are the people friendly in this city?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0068",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "The city you live in",
+      "subgroup": "",
+      "text": "Is the city friendly to children and old people?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0069",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "The city you live in",
+      "subgroup": "",
+      "text": "Do you often see your neighbors?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0070",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "The city you live in",
+      "subgroup": "",
+      "text": "What's the weather like where you live?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0071",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "The city you live in",
+      "subgroup": "",
+      "text": "Would you recommend your city to others?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0072",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Secondary school",
+      "subgroup": "",
+      "text": "Do you remember your first day at secondary school?",
+      "prompts": [],
+      "tag": "new",
+      "id": "builtin-0073",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Secondary school",
+      "subgroup": "",
+      "text": "Were there any subjects that you found difficult at secondary school?",
+      "prompts": [],
+      "tag": "new",
+      "id": "builtin-0074",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Secondary school",
+      "subgroup": "",
+      "text": "What was your favorite subject at secondary school?",
+      "prompts": [],
+      "tag": "new",
+      "id": "builtin-0075",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Secondary school",
+      "subgroup": "",
+      "text": "Is there anything you miss about your secondary school?",
+      "prompts": [],
+      "tag": "new",
+      "id": "builtin-0076",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Public gardens and parks",
+      "subgroup": "",
+      "text": "Did you like going to parks as a child?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0077",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Public gardens and parks",
+      "subgroup": "",
+      "text": "Do you still like going to parks now?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0078",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Public gardens and parks",
+      "subgroup": "",
+      "text": "Would you like to see more parks in your city?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0079",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Public gardens and parks",
+      "subgroup": "",
+      "text": "Are there any parks you want to go to in the future?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0080",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Public gardens and parks",
+      "subgroup": "",
+      "text": "Would you prefer to play in a personal garden or public garden?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0081",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Public gardens and parks",
+      "subgroup": "",
+      "text": "How are the parks today different from those you visited as a kid?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0082",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Public gardens and parks",
+      "subgroup": "",
+      "text": "What do you like to do when visiting a park?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0083",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Public gardens and parks",
+      "subgroup": "",
+      "text": "Would you like to play in a public garden or park?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0084",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Teachers",
+      "subgroup": "",
+      "text": "Do you like your primary school teachers more than your high school teachers?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0085",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Teachers",
+      "subgroup": "",
+      "text": "Do you have a favorite teacher?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0086",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Teachers",
+      "subgroup": "",
+      "text": "In what way has your favourite teacher helped you?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0087",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Teachers",
+      "subgroup": "",
+      "text": "Are you still in touch with your primary school teachers?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0088",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Teachers",
+      "subgroup": "",
+      "text": "Do you have a teacher from your past that you still remember?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0089",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Teachers",
+      "subgroup": "",
+      "text": "Do you want to be a teacher in the future?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0090",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Rubbish and recycling",
+      "subgroup": "",
+      "text": "What do you do when you see rubbish on the street?",
+      "prompts": [],
+      "tag": "new",
+      "id": "builtin-0091",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Rubbish and recycling",
+      "subgroup": "",
+      "text": "How do you recycle things like paper and plastic?",
+      "prompts": [],
+      "tag": "new",
+      "id": "builtin-0092",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Rubbish and recycling",
+      "subgroup": "",
+      "text": "Did you recycle when you were a kid?",
+      "prompts": [],
+      "tag": "new",
+      "id": "builtin-0093",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Rubbish and recycling",
+      "subgroup": "",
+      "text": "Is waste sorting common in your country?",
+      "prompts": [],
+      "tag": "new",
+      "id": "builtin-0094",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Shoes",
+      "subgroup": "",
+      "text": "Do you like buying shoes? How often?",
+      "prompts": [],
+      "tag": "new",
+      "id": "builtin-0095",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Shoes",
+      "subgroup": "",
+      "text": "Have you ever bought shoes online?",
+      "prompts": [],
+      "tag": "new",
+      "id": "builtin-0096",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Shoes",
+      "subgroup": "",
+      "text": "How much money do you usually spend on shoes?",
+      "prompts": [],
+      "tag": "new",
+      "id": "builtin-0097",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Shoes",
+      "subgroup": "",
+      "text": "Which do you prefer, fashionable shoes or comfortable shoes?",
+      "prompts": [],
+      "tag": "new",
+      "id": "builtin-0098",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Fruit and vegetables",
+      "subgroup": "",
+      "text": "How often do you eat fruit and vegetables?",
+      "prompts": [],
+      "tag": "new",
+      "id": "builtin-0099",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Fruit and vegetables",
+      "subgroup": "",
+      "text": "Where do you usually buy fruit and vegetables?",
+      "prompts": [],
+      "tag": "new",
+      "id": "builtin-0100",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Fruit and vegetables",
+      "subgroup": "",
+      "text": "What kind of fruits and vegetables do you dislike?",
+      "prompts": [],
+      "tag": "new",
+      "id": "builtin-0101",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Fruit and vegetables",
+      "subgroup": "",
+      "text": "Were there any kind of fruits and vegetables you disliked as a child?",
+      "prompts": [],
+      "tag": "new",
+      "id": "builtin-0102",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Fruit and vegetables",
+      "subgroup": "",
+      "text": "Do people in your country like planting vegetables?",
+      "prompts": [],
+      "tag": "new",
+      "id": "builtin-0103",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Paper",
+      "subgroup": "",
+      "text": "Have you made any crafts with paper?",
+      "prompts": [],
+      "tag": "new",
+      "id": "builtin-0104",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Paper",
+      "subgroup": "",
+      "text": "Do you still write physical letters?",
+      "prompts": [],
+      "tag": "new",
+      "id": "builtin-0105",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Paper",
+      "subgroup": "",
+      "text": "Do people still keep handwritten letters today?",
+      "prompts": [],
+      "tag": "new",
+      "id": "builtin-0106",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Paper",
+      "subgroup": "",
+      "text": "Do you carry paper and pens with you when you go out?",
+      "prompts": [],
+      "tag": "new",
+      "id": "builtin-0107",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Paper",
+      "subgroup": "",
+      "text": "What did you like to do with paper as a child?",
+      "prompts": [],
+      "tag": "new",
+      "id": "builtin-0108",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Advertisement",
+      "subgroup": "",
+      "text": "Do you often see advertisements when you are on your phone or computer?",
+      "prompts": [],
+      "tag": "new",
+      "id": "builtin-0109",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Advertisement",
+      "subgroup": "",
+      "text": "Is there an advertisement that made an impression on you when you were a child?",
+      "prompts": [],
+      "tag": "new",
+      "id": "builtin-0110",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Advertisement",
+      "subgroup": "",
+      "text": "Do you see a lot of advertising on trains or other transport?",
+      "prompts": [],
+      "tag": "new",
+      "id": "builtin-0111",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Advertisement",
+      "subgroup": "",
+      "text": "Do you like advertisements?",
+      "prompts": [],
+      "tag": "new",
+      "id": "builtin-0112",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Advertisement",
+      "subgroup": "",
+      "text": "What kind of advertising do you like?",
+      "prompts": [],
+      "tag": "new",
+      "id": "builtin-0113",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Advertisement",
+      "subgroup": "",
+      "text": "Have you ever bought something because of an advertisement?",
+      "prompts": [],
+      "tag": "new",
+      "id": "builtin-0114",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Websites",
+      "subgroup": "",
+      "text": "What kinds of websites do you often visit?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0115",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Websites",
+      "subgroup": "",
+      "text": "What is your favorite website?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0116",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Websites",
+      "subgroup": "",
+      "text": "Are there any changes to the websites you often visit?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0117",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Websites",
+      "subgroup": "",
+      "text": "What kinds of websites are popular in your country?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0118",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Websites",
+      "subgroup": "",
+      "text": "Do you prefer getting information from websites or books?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0119",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Websites",
+      "subgroup": "",
+      "text": "Would you like to have your own website?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0120",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Websites",
+      "subgroup": "",
+      "text": "What have you learned from websites that help with your life or studies?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0121",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Watch",
+      "subgroup": "",
+      "text": "Do you wear a watch?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0122",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Watch",
+      "subgroup": "",
+      "text": "Have you ever got a watch as a gift?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0123",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Watch",
+      "subgroup": "",
+      "text": "Why do some people wear expensive watches?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0124",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Watch",
+      "subgroup": "",
+      "text": "Do you think it is important to wear a watch? Why?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0125",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Cars",
+      "subgroup": "",
+      "text": "Did you enjoy traveling by car when you were a kid?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0126",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Cars",
+      "subgroup": "",
+      "text": "What types of cars do you like?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0127",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Cars",
+      "subgroup": "",
+      "text": "Do you prefer to be a driver or a passenger?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0128",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Cars",
+      "subgroup": "",
+      "text": "What do you usually do when there is a traffic jam?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0129",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Cars",
+      "subgroup": "",
+      "text": "Do you think car colors are important?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0130",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Cars",
+      "subgroup": "",
+      "text": "Will you buy an expensive car in the future?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0131",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Mirrors",
+      "subgroup": "",
+      "text": "Do you like looking at yourself in the mirror? How often?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0132",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Mirrors",
+      "subgroup": "",
+      "text": "Have you ever bought mirrors?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0133",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Mirrors",
+      "subgroup": "",
+      "text": "Do you usually take a mirror with you?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0134",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Mirrors",
+      "subgroup": "",
+      "text": "Would you use mirrors to decorate your room?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0135",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Clothing",
+      "subgroup": "",
+      "text": "What kind of clothes do you like to wear?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0136",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Clothing",
+      "subgroup": "",
+      "text": "Do you prefer to wear comfortable and casual clothes or smart clothes?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0137",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Clothing",
+      "subgroup": "",
+      "text": "Do you like wearing T-shirts?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0138",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Clothing",
+      "subgroup": "",
+      "text": "Do you spend a lot of time choosing clothes?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0139",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Clothing",
+      "subgroup": "",
+      "text": "Do you wear different styles of clothes on weekdays and weekends?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0140",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Clothing",
+      "subgroup": "",
+      "text": "What colour clothes do you like?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0141",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Headphones",
+      "subgroup": "",
+      "text": "Do you use headphones?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0142",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Headphones",
+      "subgroup": "",
+      "text": "What type of headphones do you use?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0143",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Headphones",
+      "subgroup": "",
+      "text": "When would you use headphones?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0144",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Headphones",
+      "subgroup": "",
+      "text": "In what conditions would you not use headphones?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0145",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Headphones",
+      "subgroup": "",
+      "text": "Is wearing headphones comfortable?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0146",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Traveling",
+      "subgroup": "",
+      "text": "Do you prefer to sit by the window when travelling?",
+      "prompts": [],
+      "tag": "new",
+      "id": "builtin-0147",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Traveling",
+      "subgroup": "",
+      "text": "Did you have a long journey with your family as a child?",
+      "prompts": [],
+      "tag": "new",
+      "id": "builtin-0148",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Traveling",
+      "subgroup": "",
+      "text": "What transport do you often use when travelling?",
+      "prompts": [],
+      "tag": "new",
+      "id": "builtin-0149",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Traveling",
+      "subgroup": "",
+      "text": "Do you often ride a bicycle?",
+      "prompts": [],
+      "tag": "new",
+      "id": "builtin-0150",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Social media",
+      "subgroup": "",
+      "text": "Have you ever posted anything on social media?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0151",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Social media",
+      "subgroup": "",
+      "text": "When did you start using social media?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0152",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Social media",
+      "subgroup": "",
+      "text": "Do you think you spend too much time on social media?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0153",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Social media",
+      "subgroup": "",
+      "text": "Do your friends use social media?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0154",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Social media",
+      "subgroup": "",
+      "text": "What do people often do on social media?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0155",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Shopping",
+      "subgroup": "",
+      "text": "Do you like shopping?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0156",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Shopping",
+      "subgroup": "",
+      "text": "How often do you go shopping?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0157",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Shopping",
+      "subgroup": "",
+      "text": "Do you prefer online shopping or in-store shopping?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0158",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Shopping",
+      "subgroup": "",
+      "text": "Have you ever returned anything you bought online?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0159",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Singing",
+      "subgroup": "",
+      "text": "Do you like singing? Why?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0160",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Singing",
+      "subgroup": "",
+      "text": "Have you ever learnt how to sing?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0161",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Singing",
+      "subgroup": "",
+      "text": "Who do you want to sing for?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0162",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Singing",
+      "subgroup": "",
+      "text": "Do you think singing can bring happiness to people?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0163",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Singing",
+      "subgroup": "",
+      "text": "Do you like listening to others singing?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0164",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Singing",
+      "subgroup": "",
+      "text": "Have you ever taken a singing class?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0165",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Morning time",
+      "subgroup": "",
+      "text": "Do you spend your mornings doing the same things on both weekends and weekdays? Why?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0166",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Morning time",
+      "subgroup": "",
+      "text": "Are there any differences between what you do in the morning now and what you did in the past?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0167",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Morning time",
+      "subgroup": "",
+      "text": "What did you do in the morning when you were little? Why?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0168",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Morning time",
+      "subgroup": "",
+      "text": "What do you usually do in the morning?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0169",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Morning time",
+      "subgroup": "",
+      "text": "Do you like getting up early in the morning?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0170",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Opportunities",
+      "subgroup": "",
+      "text": "Do you often get new opportunities?",
+      "prompts": [],
+      "tag": "new",
+      "id": "builtin-0171",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Opportunities",
+      "subgroup": "",
+      "text": "Do you like taking on new opportunities?",
+      "prompts": [],
+      "tag": "new",
+      "id": "builtin-0172",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Opportunities",
+      "subgroup": "",
+      "text": "Should people try as many different things as they can?",
+      "prompts": [],
+      "tag": "new",
+      "id": "builtin-0173",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Opportunities",
+      "subgroup": "",
+      "text": "Did you have any opportunities to take part in new activities as a child?",
+      "prompts": [],
+      "tag": "new",
+      "id": "builtin-0174",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Tiredness",
+      "subgroup": "",
+      "text": "Do you often feel tired?",
+      "prompts": [],
+      "tag": "new",
+      "id": "builtin-0175",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Tiredness",
+      "subgroup": "",
+      "text": "When would you feel tired?",
+      "prompts": [],
+      "tag": "new",
+      "id": "builtin-0176",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Tiredness",
+      "subgroup": "",
+      "text": "What do you do when you feel tired?",
+      "prompts": [],
+      "tag": "new",
+      "id": "builtin-0177",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Tiredness",
+      "subgroup": "",
+      "text": "When you feel tired, do you still go out with your friends?",
+      "prompts": [],
+      "tag": "new",
+      "id": "builtin-0178",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Politeness",
+      "subgroup": "",
+      "text": "How did you learn to be polite as a child?",
+      "prompts": [],
+      "tag": "new",
+      "id": "builtin-0179",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Politeness",
+      "subgroup": "",
+      "text": "Do you think being polite is very important?",
+      "prompts": [],
+      "tag": "new",
+      "id": "builtin-0180",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Politeness",
+      "subgroup": "",
+      "text": "Who taught you to be polite when you were young?",
+      "prompts": [],
+      "tag": "new",
+      "id": "builtin-0181",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Politeness",
+      "subgroup": "",
+      "text": "Do you think people are as polite today as they were in the past?",
+      "prompts": [],
+      "tag": "new",
+      "id": "builtin-0182",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Names",
+      "subgroup": "",
+      "text": "Is it easy to memorize others' names?",
+      "prompts": [],
+      "tag": "new",
+      "id": "builtin-0183",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Names",
+      "subgroup": "",
+      "text": "How to memorize others' names?",
+      "prompts": [],
+      "tag": "new",
+      "id": "builtin-0184",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Names",
+      "subgroup": "",
+      "text": "Why is it important to memorize others' names?",
+      "prompts": [],
+      "tag": "new",
+      "id": "builtin-0185",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Names",
+      "subgroup": "",
+      "text": "What do you do when others couldn't remember your name?",
+      "prompts": [],
+      "tag": "new",
+      "id": "builtin-0186",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Music",
+      "subgroup": "",
+      "text": "Do you prefer sad or happy music?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0187",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Music",
+      "subgroup": "",
+      "text": "Does happy music make you feel more excited?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0188",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Music",
+      "subgroup": "",
+      "text": "Have you taken any music classes?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0189",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Music",
+      "subgroup": "",
+      "text": "Do you listen to music while doing other things?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0190",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Tidiness",
+      "subgroup": "",
+      "text": "Do you like to keep things tidy?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0191",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Tidiness",
+      "subgroup": "",
+      "text": "Did you keep your room tidy as a child?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0192",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Tidiness",
+      "subgroup": "",
+      "text": "How do you keep your work or study space tidy?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0193",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Tidiness",
+      "subgroup": "",
+      "text": "Do you think that it is necessary to be tidy?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0194",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Science",
+      "subgroup": "",
+      "text": "Do you like science?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0195",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Science",
+      "subgroup": "",
+      "text": "When did you start to learn about science?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0196",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Science",
+      "subgroup": "",
+      "text": "Which science subject is interesting to you?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0197",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Science",
+      "subgroup": "",
+      "text": "What kinds of interesting things have you done with science?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0198",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Science",
+      "subgroup": "",
+      "text": "Do you like watching science TV programs?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0199",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Science",
+      "subgroup": "",
+      "text": "Do Chinese people often visit science museums?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0200",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Outer space and stars",
+      "subgroup": "",
+      "text": "Have you ever learnt about outer space and stars?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0201",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Outer space and stars",
+      "subgroup": "",
+      "text": "Do you like science fiction movies? Why?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0202",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Outer space and stars",
+      "subgroup": "",
+      "text": "Do you want to know more about outer space?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0203",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Outer space and stars",
+      "subgroup": "",
+      "text": "Do you want to go into outer space in the future?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0204",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Jokes & Comedies",
+      "subgroup": "",
+      "text": "Are you good at telling jokes?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0205",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Jokes & Comedies",
+      "subgroup": "",
+      "text": "Do your friends like to tell jokes?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0206",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Jokes & Comedies",
+      "subgroup": "",
+      "text": "Do you like to watch comedies?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0207",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Jokes & Comedies",
+      "subgroup": "",
+      "text": "Have you ever watched a live show?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0208",
+      "source": "bank"
+    },
+    {
+      "part": 1,
+      "topic": "Jokes & Comedies",
+      "subgroup": "",
+      "text": "Are comedy shows popular in your country?",
+      "prompts": [],
+      "tag": "old",
+      "id": "builtin-0209",
+      "source": "bank"
+    },
+    {
+      "part": 2,
+      "topic": "Describe a public building you enjoy visiting (eg. a library, a shopping mall, etc.)",
+      "text": "Describe a public building you enjoy visiting (eg. a library, a shopping mall, etc.)",
+      "prompts": [
+        "Where it is",
+        "How you knew it",
+        "What it looks like",
+        "And explain why you enjoy visiting it"
+      ],
+      "tag": "new",
+      "group": "group-01",
+      "id": "builtin-0210",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a public building you enjoy visiting (eg. a library, a shopping mall, etc.)",
+      "text": "Why do people visit historic buildings?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-01",
+      "id": "builtin-0211",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a public building you enjoy visiting (eg. a library, a shopping mall, etc.)",
+      "text": "Should modern buildings replace traditional buildings?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-01",
+      "id": "builtin-0212",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a public building you enjoy visiting (eg. a library, a shopping mall, etc.)",
+      "text": "Is it better to live in an apartment than in a house?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-01",
+      "id": "builtin-0213",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a public building you enjoy visiting (eg. a library, a shopping mall, etc.)",
+      "text": "Is it important to protect historic buildings? Why?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-01",
+      "id": "builtin-0214",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a public building you enjoy visiting (eg. a library, a shopping mall, etc.)",
+      "text": "Why is it hard to protect historic buildings?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-01",
+      "id": "builtin-0215",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a public building you enjoy visiting (eg. a library, a shopping mall, etc.)",
+      "text": "Why do some people prefer to live in the countryside?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-01",
+      "id": "builtin-0216",
+      "source": "bank"
+    },
+    {
+      "part": 2,
+      "topic": "Describe a natural place in your city that you enjoy visiting",
+      "text": "Describe a natural place in your city that you enjoy visiting",
+      "prompts": [
+        "Where it is",
+        "What it is like",
+        "How often you go there",
+        "Who you often go there with",
+        "And explain why you enjoy visiting there"
+      ],
+      "tag": "new",
+      "group": "group-02",
+      "id": "builtin-0217",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a natural place in your city that you enjoy visiting",
+      "text": "Do you think there should be many natural places in cities?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-02",
+      "id": "builtin-0218",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a natural place in your city that you enjoy visiting",
+      "text": "Do you think staying in a natural place would help change people's mood?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-02",
+      "id": "builtin-0219",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a natural place in your city that you enjoy visiting",
+      "text": "Which is more important, protecting the environment or developing the economy?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-02",
+      "id": "builtin-0220",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a natural place in your city that you enjoy visiting",
+      "text": "What can governments do to encourage people to spend more time in nature?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-02",
+      "id": "builtin-0221",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a natural place in your city that you enjoy visiting",
+      "text": "Do you think people should spend more time in nature?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-02",
+      "id": "builtin-0222",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a natural place in your city that you enjoy visiting",
+      "text": "What kind of people do you think enjoy being in nature?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-02",
+      "id": "builtin-0223",
+      "source": "bank"
+    },
+    {
+      "part": 2,
+      "topic": "Describe a noisy place you have been to",
+      "text": "Describe a noisy place you have been to",
+      "prompts": [
+        "Where it is",
+        "When you went there",
+        "What you did there",
+        "And explain why you feel it's a noisy place"
+      ],
+      "tag": "new",
+      "group": "group-03",
+      "id": "builtin-0224",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a noisy place you have been to",
+      "text": "How can people consider others' feelings when chatting in public?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-03",
+      "id": "builtin-0225",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a noisy place you have been to",
+      "text": "How would people usually respond to noises in your country?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-03",
+      "id": "builtin-0226",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a noisy place you have been to",
+      "text": "Which area is exposed to noise more, the city or the countryside?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-03",
+      "id": "builtin-0227",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a noisy place you have been to",
+      "text": "What kinds of noises are there in our life?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-03",
+      "id": "builtin-0228",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a noisy place you have been to",
+      "text": "Should children not be allowed to make noise under any circumstances?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-03",
+      "id": "builtin-0229",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a noisy place you have been to",
+      "text": "Do you think it is good for children to make noise?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-03",
+      "id": "builtin-0230",
+      "source": "bank"
+    },
+    {
+      "part": 2,
+      "topic": "Describe a crowded place you went to",
+      "text": "Describe a crowded place you went to",
+      "prompts": [
+        "Where it was",
+        "When you went there",
+        "Who you went there with",
+        "What you did there",
+        "And how you felt about it"
+      ],
+      "tag": "new",
+      "group": "group-04",
+      "id": "builtin-0231",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a crowded place you went to",
+      "text": "Which cities are overcrowded in your country?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-04",
+      "id": "builtin-0232",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a crowded place you went to",
+      "text": "Will there be more or less green space in cities in the future?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-04",
+      "id": "builtin-0233",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a crowded place you went to",
+      "text": "Will people use bikes more or less in cities in the future?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-04",
+      "id": "builtin-0234",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a crowded place you went to",
+      "text": "Why do people go to crowded places?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-04",
+      "id": "builtin-0235",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a crowded place you went to",
+      "text": "Do you think there are some people who enjoy crowded places?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-04",
+      "id": "builtin-0236",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a crowded place you went to",
+      "text": "Do you think it is a good trend to have more big cities?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-04",
+      "id": "builtin-0237",
+      "source": "bank"
+    },
+    {
+      "part": 2,
+      "topic": "Describe a boring place",
+      "text": "Describe a boring place",
+      "prompts": [
+        "Where it is",
+        "Who you went there with",
+        "What you did there",
+        "And explain why you think it is a boring place"
+      ],
+      "tag": "old",
+      "group": "group-05",
+      "id": "builtin-0238",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a boring place",
+      "text": "Why do most children think education is boring?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-05",
+      "id": "builtin-0239",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a boring place",
+      "text": "Why aren't young people willing to listen to the experiences of older people?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-05",
+      "id": "builtin-0240",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a boring place",
+      "text": "What can people do when they feel bored?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-05",
+      "id": "builtin-0241",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a boring place",
+      "text": "Why are some teachers' classes boring? Are there any solutions?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-05",
+      "id": "builtin-0242",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a boring place",
+      "text": "Why do some young people feel bored when talking with old people?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-05",
+      "id": "builtin-0243",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a boring place",
+      "text": "Do most people think news about celebrities is boring?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-05",
+      "id": "builtin-0244",
+      "source": "bank"
+    },
+    {
+      "part": 2,
+      "topic": "Describe a place you have travelled to that you would like to recommend to",
+      "text": "Describe a place you have travelled to that you would like to recommend to",
+      "prompts": [
+        "What it is",
+        "Where it is",
+        "What you saw and did there",
+        "And explain why you would like to recommend it to others"
+      ],
+      "tag": "old",
+      "group": "group-06",
+      "warning": "The source title ends in “recommend to”; verify its wording before using this card.",
+      "id": "builtin-0245",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a place you have travelled to that you would like to recommend to",
+      "text": "Where do people in your country often go for holidays?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-06",
+      "warning": "The source title ends in “recommend to”; verify its wording before using this card.",
+      "id": "builtin-0246",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a place you have travelled to that you would like to recommend to",
+      "text": "What is the ideal length for a holiday?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-06",
+      "warning": "The source title ends in “recommend to”; verify its wording before using this card.",
+      "id": "builtin-0247",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a place you have travelled to that you would like to recommend to",
+      "text": "How do people usually plan holidays?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-06",
+      "warning": "The source title ends in “recommend to”; verify its wording before using this card.",
+      "id": "builtin-0248",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a place you have travelled to that you would like to recommend to",
+      "text": "Is it important to plan a holiday ahead?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-06",
+      "warning": "The source title ends in “recommend to”; verify its wording before using this card.",
+      "id": "builtin-0249",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a place you have travelled to that you would like to recommend to",
+      "text": "Why do many countries try to attract people to visit?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-06",
+      "warning": "The source title ends in “recommend to”; verify its wording before using this card.",
+      "id": "builtin-0250",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a place you have travelled to that you would like to recommend to",
+      "text": "How do people decide when to travel?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-06",
+      "warning": "The source title ends in “recommend to”; verify its wording before using this card.",
+      "id": "builtin-0251",
+      "source": "bank"
+    },
+    {
+      "part": 2,
+      "topic": "Describe a home that you like to visit but do not want to live in",
+      "text": "Describe a home that you like to visit but do not want to live in",
+      "prompts": [
+        "Where it is",
+        "What it is like",
+        "Why you like to visit it",
+        "And explain why you would not like to live there"
+      ],
+      "tag": "old",
+      "group": "group-07",
+      "id": "builtin-0252",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a home that you like to visit but do not want to live in",
+      "text": "Do Chinese people like to visit others' homes?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-07",
+      "id": "builtin-0253",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a home that you like to visit but do not want to live in",
+      "text": "What do Chinese people do when they visit others?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-07",
+      "id": "builtin-0254",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a home that you like to visit but do not want to live in",
+      "text": "What kind of place do people in your country like to live in?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-07",
+      "id": "builtin-0255",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a home that you like to visit but do not want to live in",
+      "text": "What's the difference between homes in cities and those in the countryside?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-07",
+      "id": "builtin-0256",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a home that you like to visit but do not want to live in",
+      "text": "What kind of gifts do people usually bring when they visit others?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-07",
+      "id": "builtin-0257",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a home that you like to visit but do not want to live in",
+      "text": "How often do you visit your relatives or friends?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-07",
+      "id": "builtin-0258",
+      "source": "bank"
+    },
+    {
+      "part": 2,
+      "topic": "Describe a person you know who has healthy habits and a healthy daily routine",
+      "text": "Describe a person you know who has healthy habits and a healthy daily routine",
+      "prompts": [
+        "Who this person is",
+        "How you got to know each other",
+        "What he/she does to keep this lifestyle",
+        "And explain how you feel about him/her"
+      ],
+      "tag": "new",
+      "group": "group-08",
+      "id": "builtin-0259",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person you know who has healthy habits and a healthy daily routine",
+      "text": "Does the government play an important role in promoting healthy lifestyles in a community?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-08",
+      "id": "builtin-0260",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person you know who has healthy habits and a healthy daily routine",
+      "text": "Do you think it is important to live in a community where people have healthy lifestyles?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-08",
+      "id": "builtin-0261",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person you know who has healthy habits and a healthy daily routine",
+      "text": "How can people relieve stress in daily life?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-08",
+      "id": "builtin-0262",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person you know who has healthy habits and a healthy daily routine",
+      "text": "What effect does stress have on health?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-08",
+      "id": "builtin-0263",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person you know who has healthy habits and a healthy daily routine",
+      "text": "Which group pays more attention to health, young people or old people?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-08",
+      "id": "builtin-0264",
+      "source": "bank"
+    },
+    {
+      "part": 2,
+      "topic": "Describe a successful sportsperson you admire",
+      "text": "Describe a successful sportsperson you admire",
+      "prompts": [
+        "Who he/she is",
+        "What you know about him/her",
+        "What he/she is like in real life",
+        "What achievements he/she has made"
+      ],
+      "tag": "new",
+      "group": "group-09",
+      "id": "builtin-0265",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a successful sportsperson you admire",
+      "text": "Should students have physical education and do sports at school?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-09",
+      "id": "builtin-0266",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a successful sportsperson you admire",
+      "text": "What qualities should an athlete have?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-09",
+      "id": "builtin-0267",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a successful sportsperson you admire",
+      "text": "Is talent important in sports?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-09",
+      "id": "builtin-0268",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a successful sportsperson you admire",
+      "text": "Is it easy to identify children's talents?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-09",
+      "id": "builtin-0269",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a successful sportsperson you admire",
+      "text": "What is the most popular sport in your country?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-09",
+      "id": "builtin-0270",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a successful sportsperson you admire",
+      "text": "Why are there so few top athletes?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-09",
+      "id": "builtin-0271",
+      "source": "bank"
+    },
+    {
+      "part": 2,
+      "topic": "Describe a person you know who did something difficult and was successful",
+      "text": "Describe a person you know who did something difficult and was successful",
+      "prompts": [
+        "Who this person is",
+        "What difficult thing the person did",
+        "Why this person was successful",
+        "And explain how you feel about this person"
+      ],
+      "tag": "new",
+      "group": "group-10",
+      "id": "builtin-0272",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person you know who did something difficult and was successful",
+      "text": "Is it difficult to do business in today's world?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-10",
+      "id": "builtin-0273",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person you know who did something difficult and was successful",
+      "text": "How can companies help protect the environment?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-10",
+      "id": "builtin-0274",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person you know who did something difficult and was successful",
+      "text": "Does money equal success?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-10",
+      "id": "builtin-0275",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person you know who did something difficult and was successful",
+      "text": "In which sectors are companies more likely to succeed in China?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-10",
+      "id": "builtin-0276",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person you know who did something difficult and was successful",
+      "text": "Is it easy to start up a company?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-10",
+      "id": "builtin-0277",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person you know who did something difficult and was successful",
+      "text": "Other than making money, what is more important for a company?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-10",
+      "id": "builtin-0278",
+      "source": "bank"
+    },
+    {
+      "part": 2,
+      "topic": "Describe a happy person you know",
+      "text": "Describe a happy person you know",
+      "prompts": [
+        "Who this person is",
+        "What he/she is like",
+        "How he/she shows happiness",
+        "And explain why you think he/she is a happy person"
+      ],
+      "tag": "new",
+      "group": "group-11",
+      "id": "builtin-0279",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a happy person you know",
+      "text": "When do you think people are happiest?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-11",
+      "id": "builtin-0280",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a happy person you know",
+      "text": "How can the arts spread positive emotions in society?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-11",
+      "id": "builtin-0281",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a happy person you know",
+      "text": "Do you think teachers are able to spot the unhappy children?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-11",
+      "id": "builtin-0282",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a happy person you know",
+      "text": "Should teachers know what children are doing all the time?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-11",
+      "id": "builtin-0283",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a happy person you know",
+      "text": "What would make a student happy at school?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-11",
+      "id": "builtin-0284",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a happy person you know",
+      "text": "Do you think doing a job that you like is more important than other things?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-11",
+      "id": "builtin-0285",
+      "source": "bank"
+    },
+    {
+      "part": 2,
+      "topic": "Describe a person who is good at making things by hand",
+      "text": "Describe a person who is good at making things by hand",
+      "prompts": [
+        "Who this person is",
+        "What he/she makes",
+        "Why you think this person is good at making things by hand",
+        "And explain how you feel about the person"
+      ],
+      "tag": "new",
+      "group": "group-12",
+      "id": "builtin-0286",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person who is good at making things by hand",
+      "text": "Do you think art classes are important for children?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-12",
+      "id": "builtin-0287",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person who is good at making things by hand",
+      "text": "Why do some children enjoy making things by hand?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-12",
+      "id": "builtin-0288",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person who is good at making things by hand",
+      "text": "Do children these days still like doing arts and crafts?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-12",
+      "id": "builtin-0289",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person who is good at making things by hand",
+      "text": "What impact can artistic buildings have on society?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-12",
+      "id": "builtin-0290",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person who is good at making things by hand",
+      "text": "Is it good to have creative people in a team?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-12",
+      "id": "builtin-0291",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person who is good at making things by hand",
+      "text": "Does art, like music or theater, have an impact on society?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-12",
+      "id": "builtin-0292",
+      "source": "bank"
+    },
+    {
+      "part": 2,
+      "topic": "Describe a person you know who really likes taking photos",
+      "text": "Describe a person you know who really likes taking photos",
+      "prompts": [
+        "Who the person is",
+        "When and how you got to know him/her",
+        "Where he/she takes photos",
+        "And explain how you feel about him/her"
+      ],
+      "tag": "new",
+      "group": "group-13",
+      "id": "builtin-0293",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person you know who really likes taking photos",
+      "text": "Why are some people keen on taking photos?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-13",
+      "id": "builtin-0294",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person you know who really likes taking photos",
+      "text": "What kind of photos do people often take?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-13",
+      "id": "builtin-0295",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person you know who really likes taking photos",
+      "text": "Do you think it's OK to take photos everywhere?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-13",
+      "id": "builtin-0296",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person you know who really likes taking photos",
+      "text": "Why do tourists like taking photos while they are travelling?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-13",
+      "id": "builtin-0297",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person you know who really likes taking photos",
+      "text": "Some people don't mind others walking into their shot when they're taking photos.",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-13",
+      "id": "builtin-0298",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person you know who really likes taking photos",
+      "text": "When do people like taking photos?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-13",
+      "id": "builtin-0299",
+      "source": "bank"
+    },
+    {
+      "part": 2,
+      "topic": "Describe a person you know who is very organized",
+      "text": "Describe a person you know who is very organized",
+      "prompts": [
+        "Who this person is",
+        "What this person usually does to stay organized",
+        "In what situations you have noticed this quality",
+        "And explain why you think being organized is important to him/her"
+      ],
+      "tag": "new",
+      "group": "group-14",
+      "id": "builtin-0300",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person you know who is very organized",
+      "text": "Why is it important for people to be organized?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-14",
+      "id": "builtin-0301",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person you know who is very organized",
+      "text": "Do you think children should learn to be organized from a young age?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-14",
+      "id": "builtin-0302",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person you know who is very organized",
+      "text": "Are organized people more likely to be successful at work or in their studies?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-14",
+      "id": "builtin-0303",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person you know who is very organized",
+      "text": "What can people do to become more organized?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-14",
+      "id": "builtin-0304",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person you know who is very organized",
+      "text": "Should parents teach their children to be organized?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-14",
+      "id": "builtin-0305",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person you know who is very organized",
+      "text": "Do you think it is important for managers to be well organized?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-14",
+      "id": "builtin-0306",
+      "source": "bank"
+    },
+    {
+      "part": 2,
+      "topic": "Describe a person who learns history and loves history",
+      "text": "Describe a person who learns history and loves history",
+      "prompts": [
+        "Who this person is",
+        "How he/she learns history",
+        "Why he/she loves history",
+        "And explain how you feel about him/her"
+      ],
+      "tag": "new",
+      "group": "group-15",
+      "id": "builtin-0307",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person who learns history and loves history",
+      "text": "Besides big historical events, what else is important when learning history?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-15",
+      "id": "builtin-0308",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person who learns history and loves history",
+      "text": "Do you think people should learn ancient history before learning modern history?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-15",
+      "id": "builtin-0309",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person who learns history and loves history",
+      "text": "Is it important to learn how people in the past lived their lives?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-15",
+      "id": "builtin-0310",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person who learns history and loves history",
+      "text": "How do children learn history before they attend school?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-15",
+      "id": "builtin-0311",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person who learns history and loves history",
+      "text": "At what age do you think people should begin to learn history?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-15",
+      "id": "builtin-0312",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person who learns history and loves history",
+      "text": "Do you think children should begin learning history from an early age?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-15",
+      "id": "builtin-0313",
+      "source": "bank"
+    },
+    {
+      "part": 2,
+      "topic": "Describe a person who taught you a new skill",
+      "text": "Describe a person who taught you a new skill",
+      "prompts": [
+        "Who this person was",
+        "What the skill was",
+        "How you learned it",
+        "And explain how you felt about this person"
+      ],
+      "tag": "new",
+      "group": "group-16",
+      "id": "builtin-0314",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person who taught you a new skill",
+      "text": "Why should children learn new skills?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-16",
+      "id": "builtin-0315",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person who taught you a new skill",
+      "text": "Where can children learn new skills?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-16",
+      "id": "builtin-0316",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person who taught you a new skill",
+      "text": "How can parents and teachers teach children new skills?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-16",
+      "id": "builtin-0317",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person who taught you a new skill",
+      "text": "How do adults learn a new skill?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-16",
+      "id": "builtin-0318",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person who taught you a new skill",
+      "text": "What are the differences between learning from a teacher and learning by oneself?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-16",
+      "id": "builtin-0319",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person who taught you a new skill",
+      "text": "Why is self-discipline important when learning a new skill?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-16",
+      "id": "builtin-0320",
+      "source": "bank"
+    },
+    {
+      "part": 2,
+      "topic": "Describe someone who is older than you that you admire",
+      "text": "Describe someone who is older than you that you admire",
+      "prompts": [
+        "Who this person is",
+        "How you knew this person",
+        "What kinds of things you like to do together",
+        "And explain how you feel about this person"
+      ],
+      "tag": "new",
+      "group": "group-17",
+      "id": "builtin-0321",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe someone who is older than you that you admire",
+      "text": "What can young and old people learn from each other?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-17",
+      "id": "builtin-0322",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe someone who is older than you that you admire",
+      "text": "Has old people's life quality improved when compared to the past?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-17",
+      "id": "builtin-0323",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe someone who is older than you that you admire",
+      "text": "Why is there a generation gap between the young and the old?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-17",
+      "id": "builtin-0324",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe someone who is older than you that you admire",
+      "text": "What do old people usually do in their daily life?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-17",
+      "id": "builtin-0325",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe someone who is older than you that you admire",
+      "text": "What kinds of things do the elderly remember for a long time?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-17",
+      "id": "builtin-0326",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe someone who is older than you that you admire",
+      "text": "What sports are popular among older people?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-17",
+      "id": "builtin-0327",
+      "source": "bank"
+    },
+    {
+      "part": 2,
+      "topic": "Describe a popular person",
+      "text": "Describe a popular person",
+      "prompts": [
+        "Who this person is",
+        "What kind of person he or she is",
+        "When you see him/her normally",
+        "And explain why you think this person is popular"
+      ],
+      "tag": "new",
+      "group": "group-18",
+      "id": "builtin-0328",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a popular person",
+      "text": "Why do people want to be popular?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-18",
+      "id": "builtin-0329",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a popular person",
+      "text": "Is it easier to become popular nowadays?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-18",
+      "id": "builtin-0330",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a popular person",
+      "text": "What are the qualities of being a good teacher?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-18",
+      "id": "builtin-0331",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a popular person",
+      "text": "Do you think good teachers are always popular among students?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-18",
+      "id": "builtin-0332",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a popular person",
+      "text": "Is it important for a teacher to be popular?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-18",
+      "id": "builtin-0333",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a popular person",
+      "text": "Why are some students popular in school?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-18",
+      "id": "builtin-0334",
+      "source": "bank"
+    },
+    {
+      "part": 2,
+      "topic": "Describe a person who loves to grow plants (e.g. vegetables, flowers) at home or in the garden",
+      "text": "Describe a person who loves to grow plants (e.g. vegetables, flowers) at home or in the garden",
+      "prompts": [
+        "Who this person is",
+        "What plants he/she grows",
+        "How he/she grows the plants",
+        "And explain why he/she loves growing plants"
+      ],
+      "tag": "old",
+      "group": "group-19",
+      "id": "builtin-0335",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person who loves to grow plants (e.g. vegetables, flowers) at home or in the garden",
+      "text": "What are the advantages of growing vegetables or flowers at home?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-19",
+      "id": "builtin-0336",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person who loves to grow plants (e.g. vegetables, flowers) at home or in the garden",
+      "text": "Do many people grow vegetables or flowers at home in your country?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-19",
+      "id": "builtin-0337",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person who loves to grow plants (e.g. vegetables, flowers) at home or in the garden",
+      "text": "Is it easy to grow plants at home?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-19",
+      "id": "builtin-0338",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person who loves to grow plants (e.g. vegetables, flowers) at home or in the garden",
+      "text": "Why do some people like to grow plants?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-19",
+      "id": "builtin-0339",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person who loves to grow plants (e.g. vegetables, flowers) at home or in the garden",
+      "text": "Why do some people prefer to grow their own fruits and vegetables instead of buying them from the market?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-19",
+      "id": "builtin-0340",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person who loves to grow plants (e.g. vegetables, flowers) at home or in the garden",
+      "text": "Do you think students should learn to grow plant?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-19",
+      "id": "builtin-0341",
+      "source": "bank"
+    },
+    {
+      "part": 2,
+      "topic": "Describe a friend from your childhood",
+      "text": "Describe a friend from your childhood",
+      "prompts": [
+        "Who he/she is",
+        "Where and how you met each other",
+        "What you often did together",
+        "And explain what made you like him/her"
+      ],
+      "tag": "old",
+      "group": "group-20",
+      "id": "builtin-0342",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a friend from your childhood",
+      "text": "Do you still keep in touch with your friends from childhood? Why or why not?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-20",
+      "id": "builtin-0343",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a friend from your childhood",
+      "text": "How important is childhood friendship to children?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-20",
+      "id": "builtin-0344",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a friend from your childhood",
+      "text": "What do you think of communicating via social media?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-20",
+      "id": "builtin-0345",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a friend from your childhood",
+      "text": "Do you think online communication through social media will replace face-to-face communication?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-20",
+      "id": "builtin-0346",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a friend from your childhood",
+      "text": "What's the difference between having younger friends and older friends?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-20",
+      "id": "builtin-0347",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a friend from your childhood",
+      "text": "Has technology changed people's friendships? How?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-20",
+      "id": "builtin-0348",
+      "source": "bank"
+    },
+    {
+      "part": 2,
+      "topic": "Describe a person you know who would like to choose a career in the medical field (e.g. a doctor, a nurse)",
+      "text": "Describe a person you know who would like to choose a career in the medical field (e.g. a doctor, a nurse)",
+      "prompts": [
+        "When you knew him/her",
+        "When he/she started to think about that",
+        "What he/she would like to do",
+        "And explain why he/she would like to choose this career"
+      ],
+      "tag": "old",
+      "group": "group-21",
+      "id": "builtin-0349",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person you know who would like to choose a career in the medical field (e.g. a doctor, a nurse)",
+      "text": "Do you think being a doctor is easy or difficult?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-21",
+      "id": "builtin-0350",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person you know who would like to choose a career in the medical field (e.g. a doctor, a nurse)",
+      "text": "Do you think learning biology is interesting for children?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-21",
+      "id": "builtin-0351",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person you know who would like to choose a career in the medical field (e.g. a doctor, a nurse)",
+      "text": "Why do some children want to become doctors?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-21",
+      "id": "builtin-0352",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person you know who would like to choose a career in the medical field (e.g. a doctor, a nurse)",
+      "text": "Do you think governments should put a large amount of money into medical research?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-21",
+      "id": "builtin-0353",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person you know who would like to choose a career in the medical field (e.g. a doctor, a nurse)",
+      "text": "Why is some doctors' pay high and others' low?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-21",
+      "id": "builtin-0354",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person you know who would like to choose a career in the medical field (e.g. a doctor, a nurse)",
+      "text": "Do you think doctors should be paid more?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-21",
+      "id": "builtin-0355",
+      "source": "bank"
+    },
+    {
+      "part": 2,
+      "topic": "Describe a person you know who has a successful business",
+      "text": "Describe a person you know who has a successful business",
+      "prompts": [
+        "Who this person is",
+        "How you got to know him/her",
+        "Why and how he/she started the business",
+        "What business he/she does",
+        "And explain why you think the business is successful"
+      ],
+      "tag": "old",
+      "group": "group-22",
+      "id": "builtin-0356",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person you know who has a successful business",
+      "text": "Why do some people start their own business?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-22",
+      "id": "builtin-0357",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person you know who has a successful business",
+      "text": "Should governments provide financial support to start-ups?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-22",
+      "id": "builtin-0358",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person you know who has a successful business",
+      "text": "Do most people prefer shopping at big stores or small stores?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-22",
+      "id": "builtin-0359",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person you know who has a successful business",
+      "text": "What makes a business successful?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-22",
+      "id": "builtin-0360",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person you know who has a successful business",
+      "text": "What makes a business fail?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-22",
+      "id": "builtin-0361",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person you know who has a successful business",
+      "text": "Is it easy to set up a new business in your country?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-22",
+      "id": "builtin-0362",
+      "source": "bank"
+    },
+    {
+      "part": 2,
+      "topic": "Describe a person who is good at learning and speaking new languages",
+      "text": "Describe a person who is good at learning and speaking new languages",
+      "prompts": [
+        "How you got to know him/her",
+        "How he/she learns a new language",
+        "What languages he/she can speak",
+        "And explain how you feel about him/her"
+      ],
+      "tag": "old",
+      "group": "group-23",
+      "id": "builtin-0363",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person who is good at learning and speaking new languages",
+      "text": "Are there many people who can speak foreign languages in your country?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-23",
+      "id": "builtin-0364",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person who is good at learning and speaking new languages",
+      "text": "Does speaking other languages help at work?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-23",
+      "id": "builtin-0365",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person who is good at learning and speaking new languages",
+      "text": "Do people learn any languages other than English?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-23",
+      "id": "builtin-0366",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person who is good at learning and speaking new languages",
+      "text": "Why is it easier for children to learn new things than for adults?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-23",
+      "id": "builtin-0367",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person who is good at learning and speaking new languages",
+      "text": "How do people learn new things?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-23",
+      "id": "builtin-0368",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a person who is good at learning and speaking new languages",
+      "text": "What is the most important thing for learning a language well?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-23",
+      "id": "builtin-0369",
+      "source": "bank"
+    },
+    {
+      "part": 2,
+      "topic": "Describe a book you enjoyed reading and that made you happy",
+      "text": "Describe a book you enjoyed reading and that made you happy",
+      "prompts": [
+        "What kind of book it was",
+        "What it was about",
+        "Why you read it",
+        "And explain why it made you happy"
+      ],
+      "tag": "new",
+      "group": "group-24",
+      "id": "builtin-0370",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a book you enjoyed reading and that made you happy",
+      "text": "What kinds of books are popular in China?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-24",
+      "id": "builtin-0371",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a book you enjoyed reading and that made you happy",
+      "text": "Do you think people should read the original book before watching the movie?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-24",
+      "id": "builtin-0372",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a book you enjoyed reading and that made you happy",
+      "text": "Are success books useful to everyone?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-24",
+      "id": "builtin-0373",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a book you enjoyed reading and that made you happy",
+      "text": "Do you think people today read less than before? Why?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-24",
+      "id": "builtin-0374",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a book you enjoyed reading and that made you happy",
+      "text": "Why do some people prefer watching movies to reading books?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-24",
+      "id": "builtin-0375",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a book you enjoyed reading and that made you happy",
+      "text": "How can parents help children develop a love of reading?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-24",
+      "id": "builtin-0376",
+      "source": "bank"
+    },
+    {
+      "part": 2,
+      "topic": "Describe a movie/film you don't like",
+      "text": "Describe a movie/film you don't like",
+      "prompts": [
+        "When you watched it",
+        "Where you watched it",
+        "What it was about",
+        "And explain why you don't like it"
+      ],
+      "tag": "new",
+      "group": "group-25",
+      "id": "builtin-0377",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a movie/film you don't like",
+      "text": "What kinds of movies are the most popular in China?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-25",
+      "id": "builtin-0378",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a movie/film you don't like",
+      "text": "What are the differences between watching movies at home and in a cinema?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-25",
+      "id": "builtin-0379",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a movie/film you don't like",
+      "text": "Are movies more likely to help people become more creative than books?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-25",
+      "id": "builtin-0380",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a movie/film you don't like",
+      "text": "Can movies help people better understand the cultural background of a country?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-25",
+      "id": "builtin-0381",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a movie/film you don't like",
+      "text": "Do people's movie preferences change as they get older?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-25",
+      "id": "builtin-0382",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a movie/film you don't like",
+      "text": "Should documentary films be completely truthful?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-25",
+      "id": "builtin-0383",
+      "source": "bank"
+    },
+    {
+      "part": 2,
+      "topic": "Describe a food that people eat on special occasions/events",
+      "text": "Describe a food that people eat on special occasions/events",
+      "prompts": [
+        "What it is",
+        "What the special event/occasion is",
+        "How it is cooked/made",
+        "And explain why people eat it on that special occasion/event"
+      ],
+      "tag": "old",
+      "group": "group-26",
+      "id": "builtin-0384",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a food that people eat on special occasions/events",
+      "text": "Why are there special foods on special occasions or events?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-26",
+      "id": "builtin-0385",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a food that people eat on special occasions/events",
+      "text": "What are the differences between everyday food and festival food?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-26",
+      "id": "builtin-0386",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a food that people eat on special occasions/events",
+      "text": "Are there any differences between the food people eat today and the food people ate in the past?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-26",
+      "id": "builtin-0387",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a food that people eat on special occasions/events",
+      "text": "Do people today prefer eating at home or in a restaurant?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-26",
+      "id": "builtin-0388",
+      "source": "bank"
+    },
+    {
+      "part": 2,
+      "topic": "Describe a story/book with animals in it",
+      "text": "Describe a story/book with animals in it",
+      "prompts": [
+        "What animals are in it",
+        "What the story/book is about",
+        "Why you read the story/book",
+        "And explain what you think of this story/book"
+      ],
+      "tag": "old",
+      "group": "group-27",
+      "id": "builtin-0389",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a story/book with animals in it",
+      "text": "Should schools teach children about animals?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-27",
+      "id": "builtin-0390",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a story/book with animals in it",
+      "text": "Some people think pets should not be kept in cities. What do you think?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-27",
+      "id": "builtin-0391",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a story/book with animals in it",
+      "text": "Many people regard pets as members of their family. What do you think?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-27",
+      "id": "builtin-0392",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a story/book with animals in it",
+      "text": "Do many people keep pets in your country?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-27",
+      "id": "builtin-0393",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a story/book with animals in it",
+      "text": "What are the advantages of keeping a pet?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-27",
+      "id": "builtin-0394",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a story/book with animals in it",
+      "text": "Why do people always tell children stories with animals?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-27",
+      "id": "builtin-0395",
+      "source": "bank"
+    },
+    {
+      "part": 2,
+      "topic": "Describe a tall building you like or dislike",
+      "text": "Describe a tall building you like or dislike",
+      "prompts": [
+        "What it is used for",
+        "Where it is",
+        "What it looks like",
+        "And explain why you like/dislike it"
+      ],
+      "tag": "old",
+      "group": "group-28",
+      "id": "builtin-0396",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a tall building you like or dislike",
+      "text": "Are there many tall buildings in your country?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-28",
+      "id": "builtin-0397",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a tall building you like or dislike",
+      "text": "What are the differences between those tall buildings in your country?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-28",
+      "id": "builtin-0398",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a tall building you like or dislike",
+      "text": "Why are different places laid out and designed differently?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-28",
+      "id": "builtin-0399",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a tall building you like or dislike",
+      "text": "What are the advantages of living in tall buildings?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-28",
+      "id": "builtin-0400",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a tall building you like or dislike",
+      "text": "Why do some people like to remodel and decorate their homes themselves?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-28",
+      "id": "builtin-0401",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a tall building you like or dislike",
+      "text": "What kind of interior design style do most people like?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-28",
+      "id": "builtin-0402",
+      "source": "bank"
+    },
+    {
+      "part": 2,
+      "topic": "Describe an interesting video",
+      "text": "Describe an interesting video",
+      "prompts": [
+        "When and where  you watched it",
+        "What it is about",
+        "Why you watched it",
+        "And explain how you feel about it"
+      ],
+      "tag": "old",
+      "group": "group-29",
+      "id": "builtin-0403",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe an interesting video",
+      "text": "What kind of videos do people in your country like to watch?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-29",
+      "id": "builtin-0404",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe an interesting video",
+      "text": "Which is more helpful, watching videos or reading books?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-29",
+      "id": "builtin-0405",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe an interesting video",
+      "text": "What skills can people learn from watching videos?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-29",
+      "id": "builtin-0406",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe an interesting video",
+      "text": "Are there any differences between the videos that young people and old people like to watch?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-29",
+      "id": "builtin-0407",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe an interesting video",
+      "text": "Are there any differences between the videos that young men and young women like to watch?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-29",
+      "id": "builtin-0408",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe an interesting video",
+      "text": "What makes a video go viral online?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-29",
+      "id": "builtin-0409",
+      "source": "bank"
+    },
+    {
+      "part": 2,
+      "topic": "Describe a live sports event you watched and liked",
+      "text": "Describe a live sports event you watched and liked",
+      "prompts": [
+        "What it was",
+        "When and where you watched it",
+        "Who you watched it with",
+        "And explain why you liked it"
+      ],
+      "tag": "old",
+      "group": "group-30",
+      "id": "builtin-0410",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a live sports event you watched and liked",
+      "text": "Why do some people like to watch sports events?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-30",
+      "id": "builtin-0411",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a live sports event you watched and liked",
+      "text": "Where do people normally watch sports events?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-30",
+      "id": "builtin-0412",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a live sports event you watched and liked",
+      "text": "What are the advantages of watching sports events online?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-30",
+      "id": "builtin-0413",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a live sports event you watched and liked",
+      "text": "What sports matches are suitable for children to attend?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-30",
+      "id": "builtin-0414",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a live sports event you watched and liked",
+      "text": "Why do some people spend a lot going to other countries to watch sports events?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-30",
+      "id": "builtin-0415",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a live sports event you watched and liked",
+      "text": "What sports games are popular in your country?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-30",
+      "id": "builtin-0416",
+      "source": "bank"
+    },
+    {
+      "part": 2,
+      "topic": "Describe a challenging technological problem you faced",
+      "text": "Describe a challenging technological problem you faced",
+      "prompts": [
+        "What the problem was",
+        "When and where you faced it",
+        "How challenging it was",
+        "And explain how you solved it"
+      ],
+      "tag": "old",
+      "group": "group-31",
+      "id": "builtin-0417",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a challenging technological problem you faced",
+      "text": "What are the advantages and disadvantages of AI?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-31",
+      "id": "builtin-0418",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a challenging technological problem you faced",
+      "text": "Do you think people today should learn about AI technology?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-31",
+      "id": "builtin-0419",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a challenging technological problem you faced",
+      "text": "Should children learn to use AI?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-31",
+      "id": "builtin-0420",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a challenging technological problem you faced",
+      "text": "How can AI help in our lives?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-31",
+      "id": "builtin-0421",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a challenging technological problem you faced",
+      "text": "Do you think students are overly reliant on AI?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-31",
+      "id": "builtin-0422",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a challenging technological problem you faced",
+      "text": "What can teachers do to stop students from relying too much on AI?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-31",
+      "id": "builtin-0423",
+      "source": "bank"
+    },
+    {
+      "part": 2,
+      "topic": "Describe an advertisement with a famous person in it",
+      "text": "Describe an advertisement with a famous person in it",
+      "prompts": [
+        "What it is",
+        "Who the person is",
+        "Where you can see it",
+        "What the advertisement is about",
+        "And explain how you feel about the advertisement"
+      ],
+      "tag": "old",
+      "group": "group-32",
+      "id": "builtin-0424",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe an advertisement with a famous person in it",
+      "text": "What are the advantages and disadvantages of advertisements?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-32",
+      "id": "builtin-0425",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe an advertisement with a famous person in it",
+      "text": "Why are many advertisements endorsed by celebrities? How useful are they?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-32",
+      "id": "builtin-0426",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe an advertisement with a famous person in it",
+      "text": "What is the most important factor in an advertisement?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-32",
+      "id": "builtin-0427",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe an advertisement with a famous person in it",
+      "text": "Why are some advertisements boring?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-32",
+      "id": "builtin-0428",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe an advertisement with a famous person in it",
+      "text": "Is advertising important for a company? Why?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-32",
+      "id": "builtin-0429",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe an advertisement with a famous person in it",
+      "text": "Which is more effective, online advertising or offline advertising?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-32",
+      "id": "builtin-0430",
+      "source": "bank"
+    },
+    {
+      "part": 2,
+      "topic": "Describe a piece of local news that people are interested in",
+      "text": "Describe a piece of local news that people are interested in",
+      "prompts": [
+        "What it was about",
+        "Where you saw/heard it",
+        "Who was involved",
+        "And explain why people were interested in it"
+      ],
+      "tag": "old",
+      "group": "group-33",
+      "id": "builtin-0431",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a piece of local news that people are interested in",
+      "text": "Do people read the newspaper where you live?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-33",
+      "id": "builtin-0432",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a piece of local news that people are interested in",
+      "text": "Do people prefer local or international news?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-33",
+      "id": "builtin-0433",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a piece of local news that people are interested in",
+      "text": "Do you think it's important to have a national identity?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-33",
+      "id": "builtin-0434",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a piece of local news that people are interested in",
+      "text": "How can people develop their national identity?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-33",
+      "id": "builtin-0435",
+      "source": "bank"
+    },
+    {
+      "part": 2,
+      "topic": "Describe a new law you would like to introduce in your country",
+      "text": "Describe a new law you would like to introduce in your country",
+      "prompts": [
+        "What law it is",
+        "What changes this law brings",
+        "Whether this new law will be popular",
+        "How you came up with the new law",
+        "And explain how you feel about this new law"
+      ],
+      "tag": "old",
+      "group": "group-34",
+      "id": "builtin-0436",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a new law you would like to introduce in your country",
+      "text": "What rules should students follow at school?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-34",
+      "id": "builtin-0437",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a new law you would like to introduce in your country",
+      "text": "Do people in your country usually obey the law?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-34",
+      "id": "builtin-0438",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a new law you would like to introduce in your country",
+      "text": "What kinds of behavior are considered as good behavior?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-34",
+      "id": "builtin-0439",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a new law you would like to introduce in your country",
+      "text": "Do you think children can learn about the law outside of school?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-34",
+      "id": "builtin-0440",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a new law you would like to introduce in your country",
+      "text": "What are the benefits for people to obey rules?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-34",
+      "id": "builtin-0441",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a new law you would like to introduce in your country",
+      "text": "How can parents teach children to obey rules?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-34",
+      "id": "builtin-0442",
+      "source": "bank"
+    },
+    {
+      "part": 2,
+      "topic": "Describe an environmental law you would like your country to introduce",
+      "text": "Describe an environmental law you would like your country to introduce",
+      "prompts": [
+        "What law it should be",
+        "Why people should follow the law",
+        "Whether the law will be popular",
+        "And explain how you feel about this law"
+      ],
+      "tag": "old",
+      "group": "group-35",
+      "id": "builtin-0443",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe an environmental law you would like your country to introduce",
+      "text": "How does technology affect the law?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-35",
+      "id": "builtin-0444",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe an environmental law you would like your country to introduce",
+      "text": "What kinds of rules do schools in China have?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-35",
+      "id": "builtin-0445",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe an environmental law you would like your country to introduce",
+      "text": "Will there be a law that is universally accepted?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-35",
+      "id": "builtin-0446",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe an environmental law you would like your country to introduce",
+      "text": "What environmental laws does your country already have?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-35",
+      "id": "builtin-0447",
+      "source": "bank"
+    },
+    {
+      "part": 2,
+      "topic": "Describe a party for a special event that impressed you a lot",
+      "text": "Describe a party for a special event that impressed you a lot",
+      "prompts": [
+        "When and where it was held",
+        "What the party was held for",
+        "How many people attended it",
+        "And explain why it impressed you a lot"
+      ],
+      "tag": "new",
+      "group": "group-36",
+      "id": "builtin-0448",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a party for a special event that impressed you a lot",
+      "text": "When do people like to hold a party?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-36",
+      "id": "builtin-0449",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a party for a special event that impressed you a lot",
+      "text": "Do you think people nowadays prefer attending big parties or small gatherings with close friends? Why?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-36",
+      "id": "builtin-0450",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a party for a special event that impressed you a lot",
+      "text": "Are there any differences between how young people and older people celebrate events with parties?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-36",
+      "id": "builtin-0451",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a party for a special event that impressed you a lot",
+      "text": "What special events are celebrated in your country?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-36",
+      "id": "builtin-0452",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a party for a special event that impressed you a lot",
+      "text": "Do you think it's a waste of money for governments to celebrate national events?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-36",
+      "id": "builtin-0453",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a party for a special event that impressed you a lot",
+      "text": "What festivals are the most important for people in your country?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-36",
+      "id": "builtin-0454",
+      "source": "bank"
+    },
+    {
+      "part": 2,
+      "topic": "Describe a short trip you often take but do not like",
+      "text": "Describe a short trip you often take but do not like",
+      "prompts": [
+        "Where you go",
+        "When you go there",
+        "Why you go there",
+        "And explain why you do not like the trip"
+      ],
+      "tag": "new",
+      "group": "group-37",
+      "id": "builtin-0455",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a short trip you often take but do not like",
+      "text": "Do Chinese people like travelling abroad?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-37",
+      "id": "builtin-0456",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a short trip you often take but do not like",
+      "text": "Who prefers travelling abroad? the young or the old?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-37",
+      "id": "builtin-0457",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a short trip you often take but do not like",
+      "text": "How much time do you think people should spend on a trip abroad?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-37",
+      "id": "builtin-0458",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a short trip you often take but do not like",
+      "text": "Which is better for knowing more about a country, travelling or reading books about it?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-37",
+      "id": "builtin-0459",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a short trip you often take but do not like",
+      "text": "What problems does it cause for transportation when everyone commutes at the same time?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-37",
+      "id": "builtin-0460",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a short trip you often take but do not like",
+      "text": "What are the benefits of travelling abroad?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-37",
+      "id": "builtin-0461",
+      "source": "bank"
+    },
+    {
+      "part": 2,
+      "topic": "Describe an activity you do regularly that you think is a waste of time",
+      "text": "Describe an activity you do regularly that you think is a waste of time",
+      "prompts": [
+        "What the activity is",
+        "When and how often you do it",
+        "Why you think it's a waste of time",
+        "And explain how you feel about doing the activity"
+      ],
+      "tag": "new",
+      "group": "group-38",
+      "id": "builtin-0462",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe an activity you do regularly that you think is a waste of time",
+      "text": "Why do some people refuse to abide by rules?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-38",
+      "id": "builtin-0463",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe an activity you do regularly that you think is a waste of time",
+      "text": "What kinds of things make people feel pressured?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-38",
+      "id": "builtin-0464",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe an activity you do regularly that you think is a waste of time",
+      "text": "Will you continue doing something when you are aware that it's a waste of time?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-38",
+      "id": "builtin-0465",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe an activity you do regularly that you think is a waste of time",
+      "text": "How do you balance life and work?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-38",
+      "id": "builtin-0466",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe an activity you do regularly that you think is a waste of time",
+      "text": "Is it good to have a daily routine?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-38",
+      "id": "builtin-0467",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe an activity you do regularly that you think is a waste of time",
+      "text": "Do you think stress is important in people's lives?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-38",
+      "id": "builtin-0468",
+      "source": "bank"
+    },
+    {
+      "part": 2,
+      "topic": "Describe a time you made an important decision and were happy with the result",
+      "text": "Describe a time you made an important decision and were happy with the result",
+      "prompts": [
+        "What the decision was",
+        "Why you made the decision",
+        "How easy it was for you to make the decision",
+        "And explain why you were happy with the result"
+      ],
+      "tag": "new",
+      "group": "group-39",
+      "id": "builtin-0469",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a time you made an important decision and were happy with the result",
+      "text": "How can we tell the difference between an important and an easy decision?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-39",
+      "id": "builtin-0470",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a time you made an important decision and were happy with the result",
+      "text": "Do you think it is a good idea to make a small decision every day?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-39",
+      "id": "builtin-0471",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a time you made an important decision and were happy with the result",
+      "text": "What little decisions do people make every day?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-39",
+      "id": "builtin-0472",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a time you made an important decision and were happy with the result",
+      "text": "What if people in a group have different opinions on a decision?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-39",
+      "id": "builtin-0473",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a time you made an important decision and were happy with the result",
+      "text": "Do you think most of people's decisions are made in their 20s?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-39",
+      "id": "builtin-0474",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a time you made an important decision and were happy with the result",
+      "text": "Which is better, to make a decision quickly or slowly?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-39",
+      "id": "builtin-0475",
+      "source": "bank"
+    },
+    {
+      "part": 2,
+      "topic": "Describe a time when someone talked about something you were not interested in",
+      "text": "Describe a time when someone talked about something you were not interested in",
+      "prompts": [
+        "Who the person was",
+        "Why he/she talked about",
+        "Why you kept listening",
+        "And explain how you felt about the experience"
+      ],
+      "tag": "new",
+      "group": "group-40",
+      "id": "builtin-0476",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a time when someone talked about something you were not interested in",
+      "text": "What kind of topics do young people like to talk about today?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-40",
+      "id": "builtin-0477",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a time when someone talked about something you were not interested in",
+      "text": "What would happen if the listener didn't listen carefully?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-40",
+      "id": "builtin-0478",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a time when someone talked about something you were not interested in",
+      "text": "How can we tell if a listener is listening carefully?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-40",
+      "id": "builtin-0479",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a time when someone talked about something you were not interested in",
+      "text": "How can a teacher tell if students are listening in class?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-40",
+      "id": "builtin-0480",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a time when someone talked about something you were not interested in",
+      "text": "What do you think about talking with people who have different opinions?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-40",
+      "id": "builtin-0481",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a time when someone talked about something you were not interested in",
+      "text": "Do most young people in your country like to talk with elderly people?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-40",
+      "id": "builtin-0482",
+      "source": "bank"
+    },
+    {
+      "part": 2,
+      "topic": "Describe an enjoyable/unforgettable evening you had with your friends",
+      "text": "Describe an enjoyable/unforgettable evening you had with your friends",
+      "prompts": [
+        "When and where it was",
+        "What you did",
+        "Who you spent the evening with",
+        "And explain why it was enjoyable"
+      ],
+      "tag": "new",
+      "group": "group-41",
+      "id": "builtin-0483",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe an enjoyable/unforgettable evening you had with your friends",
+      "text": "How do people get along in a big family?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-41",
+      "id": "builtin-0484",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe an enjoyable/unforgettable evening you had with your friends",
+      "text": "What can we do to bring family members closer together?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-41",
+      "id": "builtin-0485",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe an enjoyable/unforgettable evening you had with your friends",
+      "text": "What are the differences between young people's leisure time activities and those of old people?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-41",
+      "id": "builtin-0486",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe an enjoyable/unforgettable evening you had with your friends",
+      "text": "Why do people need friends?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-41",
+      "id": "builtin-0487",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe an enjoyable/unforgettable evening you had with your friends",
+      "text": "Do older people prefer spending time with family or with friends?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-41",
+      "id": "builtin-0488",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe an enjoyable/unforgettable evening you had with your friends",
+      "text": "Do young people prefer spending time with family or with friends?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-41",
+      "id": "builtin-0489",
+      "source": "bank"
+    },
+    {
+      "part": 2,
+      "topic": "Describe a new skill you learned when you were a child",
+      "text": "Describe a new skill you learned when you were a child",
+      "prompts": [
+        "What the skill was",
+        "Who taught you this skill",
+        "How you learned it",
+        "And explain how you felt about learning the skill"
+      ],
+      "tag": "new",
+      "group": "group-42",
+      "id": "builtin-0490",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a new skill you learned when you were a child",
+      "text": "What skills should children learn before they go to school?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-42",
+      "id": "builtin-0491",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a new skill you learned when you were a child",
+      "text": "What are the differences between learning in a group and learning by yourself?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-42",
+      "id": "builtin-0492",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a new skill you learned when you were a child",
+      "text": "What are the differences between the way adults learn and the way children learn?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-42",
+      "id": "builtin-0493",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a new skill you learned when you were a child",
+      "text": "Do you think it is easier for children to learn new skills than for adults?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-42",
+      "id": "builtin-0494",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a new skill you learned when you were a child",
+      "text": "Can a child learn skills from another child?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-42",
+      "id": "builtin-0495",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a new skill you learned when you were a child",
+      "text": "Is it important for everyone to have a specialized skill?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-42",
+      "id": "builtin-0496",
+      "source": "bank"
+    },
+    {
+      "part": 2,
+      "topic": "Describe a time when you saved money to buy something special",
+      "text": "Describe a time when you saved money to buy something special",
+      "prompts": [
+        "What the special thing was",
+        "Why you wanted to buy it",
+        "How you saved money for it",
+        "And explain how you felt after buying it"
+      ],
+      "tag": "new",
+      "group": "group-43",
+      "id": "builtin-0497",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a time when you saved money to buy something special",
+      "text": "Should people spend time on charity, or just money?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-43",
+      "id": "builtin-0498",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a time when you saved money to buy something special",
+      "text": "What kind of things do people usually save money for?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-43",
+      "id": "builtin-0499",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a time when you saved money to buy something special",
+      "text": "Is it easier to spend money or save money?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-43",
+      "id": "builtin-0500",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a time when you saved money to buy something special",
+      "text": "Do you think it is easier to teach teenagers how to manage money when they are around 16 or 17 years old?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-43",
+      "id": "builtin-0501",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a time when you saved money to buy something special",
+      "text": "Should parents teach their children to spend money freely or to save money?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-43",
+      "id": "builtin-0502",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a time when you saved money to buy something special",
+      "text": "Should schools teach children how to manage money from a young age?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-43",
+      "id": "builtin-0503",
+      "source": "bank"
+    },
+    {
+      "part": 2,
+      "topic": "Describe a time you watched a famous person being interviewed",
+      "text": "Describe a time you watched a famous person being interviewed",
+      "prompts": [
+        "Who the famous person was",
+        "What the interview was about",
+        "When and where you watched the interview",
+        "And explain how you felt about the interview"
+      ],
+      "tag": "new",
+      "group": "group-44",
+      "id": "builtin-0504",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a time you watched a famous person being interviewed",
+      "text": "What should people wear to a job interview?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-44",
+      "id": "builtin-0505",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a time you watched a famous person being interviewed",
+      "text": "Why do we need to attend interviews when applying for jobs?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-44",
+      "id": "builtin-0506",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a time you watched a famous person being interviewed",
+      "text": "What should people do to prepare for a job interview?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-44",
+      "id": "builtin-0507",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a time you watched a famous person being interviewed",
+      "text": "Why do some people think interviews are a waste of time?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-44",
+      "id": "builtin-0508",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a time you watched a famous person being interviewed",
+      "text": "Why do some people dislike being interviewed?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-44",
+      "id": "builtin-0509",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a time you watched a famous person being interviewed",
+      "text": "What kinds of people are usually interviewed?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-44",
+      "id": "builtin-0510",
+      "source": "bank"
+    },
+    {
+      "part": 2,
+      "topic": "Describe a time when you received good service in a shop/store/company",
+      "text": "Describe a time when you received good service in a shop/store/company",
+      "prompts": [
+        "Where the shop/store/company is",
+        "When you went to the shop/store/company",
+        "What service you received from the staff",
+        "And explain how you felt about the service"
+      ],
+      "tag": "new",
+      "group": "group-45",
+      "id": "builtin-0511",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a time when you received good service in a shop/store/company",
+      "text": "Why are shopping malls so popular in China?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-45",
+      "id": "builtin-0512",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a time when you received good service in a shop/store/company",
+      "text": "What are the advantages and disadvantages of shopping in small shops?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-45",
+      "id": "builtin-0513",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a time when you received good service in a shop/store/company",
+      "text": "Why do some people not like shopping in small shops?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-45",
+      "id": "builtin-0514",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a time when you received good service in a shop/store/company",
+      "text": "What are the differences between online shopping and in-store shopping?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-45",
+      "id": "builtin-0515",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a time when you received good service in a shop/store/company",
+      "text": "What are the advantages and disadvantages of shopping online?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-45",
+      "id": "builtin-0516",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a time when you received good service in a shop/store/company",
+      "text": "Can consumption drive economic growth?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-45",
+      "id": "builtin-0517",
+      "source": "bank"
+    },
+    {
+      "part": 2,
+      "topic": "Describe a time you helped someone",
+      "text": "Describe a time you helped someone",
+      "prompts": [
+        "Where you helped him/her",
+        "Why you helped",
+        "How you helped",
+        "And explain how you felt about it"
+      ],
+      "tag": "new",
+      "group": "group-46",
+      "id": "builtin-0518",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a time you helped someone",
+      "text": "Should children be taught to be kind to others?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-46",
+      "id": "builtin-0519",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a time you helped someone",
+      "text": "Should people be very kind when they help others?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-46",
+      "id": "builtin-0520",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a time you helped someone",
+      "text": "Can kids provide any help to parents?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-46",
+      "id": "builtin-0521",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a time you helped someone",
+      "text": "Should parents give children advice? Why?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-46",
+      "id": "builtin-0522",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a time you helped someone",
+      "text": "What kind of advice should parents give to their children?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-46",
+      "id": "builtin-0523",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a time you helped someone",
+      "text": "Should parents help their kids with their homework?",
+      "prompts": [],
+      "tag": "new",
+      "group": "group-46",
+      "id": "builtin-0524",
+      "source": "bank"
+    },
+    {
+      "part": 2,
+      "topic": "Describe a time when you worked in a group",
+      "text": "Describe a time when you worked in a group",
+      "prompts": [
+        "What you did",
+        "Who you worked with",
+        "What problems you faced",
+        "And explain why you worked in the group"
+      ],
+      "tag": "old",
+      "group": "group-47",
+      "id": "builtin-0525",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a time when you worked in a group",
+      "text": "Why do some people prefer to work by themselves?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-47",
+      "id": "builtin-0526",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a time when you worked in a group",
+      "text": "What should a leader do to make team members want to follow him or her?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-47",
+      "id": "builtin-0527",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a time when you worked in a group",
+      "text": "Should students learn to do group work?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-47",
+      "id": "builtin-0528",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a time when you worked in a group",
+      "text": "What group tasks are there in schools?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-47",
+      "id": "builtin-0529",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a time when you worked in a group",
+      "text": "What advantages are there for students experiencing teamwork at school?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-47",
+      "id": "builtin-0530",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a time when you worked in a group",
+      "text": "How can you tell if a person is a good leader?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-47",
+      "id": "builtin-0531",
+      "source": "bank"
+    },
+    {
+      "part": 2,
+      "topic": "Describe a time when you sent a message or an email to someone but received no reply for a long time",
+      "text": "Describe a time when you sent a message or an email to someone but received no reply for a long time",
+      "prompts": [
+        "Who you sent it to",
+        "What the message/email was about",
+        "Whether you finally received the reply",
+        "And explain how you felt about the experience"
+      ],
+      "tag": "old",
+      "group": "group-48",
+      "id": "builtin-0532",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a time when you sent a message or an email to someone but received no reply for a long time",
+      "text": "In what situations do people spend a long time responding to others' messages?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-48",
+      "id": "builtin-0533",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a time when you sent a message or an email to someone but received no reply for a long time",
+      "text": "In what situations do people not respond to messages at all?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-48",
+      "id": "builtin-0534",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a time when you sent a message or an email to someone but received no reply for a long time",
+      "text": "What would you do if you did not receive a reply after sending out a message?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-48",
+      "id": "builtin-0535",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a time when you sent a message or an email to someone but received no reply for a long time",
+      "text": "Why do some people prefer sending a message instead of making a call?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-48",
+      "id": "builtin-0536",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a time when you sent a message or an email to someone but received no reply for a long time",
+      "text": "How do you show your respect in your messages?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-48",
+      "id": "builtin-0537",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a time when you sent a message or an email to someone but received no reply for a long time",
+      "text": "Why do some people feel angry when others don't reply to their message?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-48",
+      "id": "builtin-0538",
+      "source": "bank"
+    },
+    {
+      "part": 2,
+      "topic": "Describe a change that you made recently",
+      "text": "Describe a change that you made recently",
+      "prompts": [
+        "What the change was",
+        "What caused the change",
+        "What you did for the change",
+        "And explain how you feel about the change"
+      ],
+      "tag": "old",
+      "group": "group-49",
+      "id": "builtin-0539",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a change that you made recently",
+      "text": "Do you think it is good to change one's daily routine?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-49",
+      "id": "builtin-0540",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a change that you made recently",
+      "text": "Do you think it is good to change jobs?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-49",
+      "id": "builtin-0541",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a change that you made recently",
+      "text": "Is it good for people to get a job promotion?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-49",
+      "id": "builtin-0542",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a change that you made recently",
+      "text": "Do people often make plans around their regular routines?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-49",
+      "id": "builtin-0543",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a change that you made recently",
+      "text": "Who tends to change their daily routine more, young people or old people?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-49",
+      "id": "builtin-0544",
+      "source": "bank"
+    },
+    {
+      "part": 2,
+      "topic": "Describe a time when you got up early",
+      "text": "Describe a time when you got up early",
+      "prompts": [
+        "When it was",
+        "What you did",
+        "Why you got up early",
+        "And how you felt about it"
+      ],
+      "tag": "old",
+      "group": "group-50",
+      "id": "builtin-0545",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a time when you got up early",
+      "text": "Do you know anyone who likes to get up early?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-50",
+      "id": "builtin-0546",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a time when you got up early",
+      "text": "Why do people get up early?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-50",
+      "id": "builtin-0547",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a time when you got up early",
+      "text": "What kinds of occasions need people to arrive early?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-50",
+      "id": "builtin-0548",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a time when you got up early",
+      "text": "Why do some people like to stay up late?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-50",
+      "id": "builtin-0549",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a time when you got up early",
+      "text": "Is it good to arrive early in any situation?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-50",
+      "id": "builtin-0550",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a time when you got up early",
+      "text": "What kind of people like getting up early?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-50",
+      "id": "builtin-0551",
+      "source": "bank"
+    },
+    {
+      "part": 2,
+      "topic": "Describe a plan that you had to change recently",
+      "text": "Describe a plan that you had to change recently",
+      "prompts": [
+        "When this happened",
+        "What made you change the plan",
+        "What the new plan was",
+        "And how you felt about the change"
+      ],
+      "tag": "old",
+      "group": "group-51",
+      "id": "builtin-0552",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a plan that you had to change recently",
+      "text": "Do people often change their plans?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-51",
+      "id": "builtin-0553",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a plan that you had to change recently",
+      "text": "Would you tell others if you change your plan?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-51",
+      "id": "builtin-0554",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a plan that you had to change recently",
+      "text": "Why do you think parents still make plans for their children nowadays?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-51",
+      "id": "builtin-0555",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a plan that you had to change recently",
+      "text": "How does technology help people make plans?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-51",
+      "id": "builtin-0556",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a plan that you had to change recently",
+      "text": "What kind of plans do people often make?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-51",
+      "id": "builtin-0557",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a plan that you had to change recently",
+      "text": "Do you think people like the process of making plans more, or the moment of carrying them out?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-51",
+      "id": "builtin-0558",
+      "source": "bank"
+    },
+    {
+      "part": 2,
+      "topic": "Describe an important decision that you made",
+      "text": "Describe an important decision that you made",
+      "prompts": [
+        "What the decision was",
+        "How you made your decision",
+        "What the results of the decision were",
+        "And explain why it was important"
+      ],
+      "tag": "old",
+      "group": "group-52",
+      "id": "builtin-0559",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe an important decision that you made",
+      "text": "Do you think children sometimes have to make important decisions?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-52",
+      "id": "builtin-0560",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe an important decision that you made",
+      "text": "What important decisions do teenagers need to make after graduation?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-52",
+      "id": "builtin-0561",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe an important decision that you made",
+      "text": "Who can children turn to for help when making a decision?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-52",
+      "id": "builtin-0562",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe an important decision that you made",
+      "text": "Do you think advertisements can influence our decisions when shopping?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-52",
+      "id": "builtin-0563",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe an important decision that you made",
+      "text": "Do you think the influence of advertising is good?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-52",
+      "id": "builtin-0564",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe an important decision that you made",
+      "text": "How do people usually make important decisions?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-52",
+      "id": "builtin-0565",
+      "source": "bank"
+    },
+    {
+      "part": 2,
+      "topic": "Describe a law on environmental protection",
+      "text": "Describe a law on environmental protection",
+      "prompts": [
+        "What it is",
+        "How you first learned about it",
+        "Who benefits from it",
+        "And explain how you feel about this law"
+      ],
+      "tag": "old",
+      "group": "group-53",
+      "id": "builtin-0566",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a law on environmental protection",
+      "text": "What kinds of rules do schools in China have?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-53",
+      "id": "builtin-0567",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a law on environmental protection",
+      "text": "Do you think school rules are important?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-53",
+      "id": "builtin-0568",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a law on environmental protection",
+      "text": "Are children unhappy with the school rules?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-53",
+      "id": "builtin-0569",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a law on environmental protection",
+      "text": "How can parents and teachers help children understand and follow rules?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-53",
+      "id": "builtin-0570",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a law on environmental protection",
+      "text": "What are the rules people should obey at work?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-53",
+      "id": "builtin-0571",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a law on environmental protection",
+      "text": "What is the purpose of punishment?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-53",
+      "id": "builtin-0572",
+      "source": "bank"
+    },
+    {
+      "part": 2,
+      "topic": "Describe a long-term goal/ambition you would like to achieve",
+      "text": "Describe a long-term goal/ambition you would like to achieve",
+      "prompts": [
+        "How long you have had this goal/ambition",
+        "What it is",
+        "How you will achieve it",
+        "And explain why you set it"
+      ],
+      "tag": "old",
+      "group": "group-54",
+      "id": "builtin-0573",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a long-term goal/ambition you would like to achieve",
+      "text": "Why should children have ambitions?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-54",
+      "id": "builtin-0574",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a long-term goal/ambition you would like to achieve",
+      "text": "What do you think of people going after high positions?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-54",
+      "id": "builtin-0575",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a long-term goal/ambition you would like to achieve",
+      "text": "Why are some young people keen on being fans of superstars?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-54",
+      "id": "builtin-0576",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a long-term goal/ambition you would like to achieve",
+      "text": "Is it good for a person to be ambitious?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-54",
+      "id": "builtin-0577",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a long-term goal/ambition you would like to achieve",
+      "text": "Do you think it is necessary to be ambitious when working in a team in a company?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-54",
+      "id": "builtin-0578",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a long-term goal/ambition you would like to achieve",
+      "text": "Should parents support their children in pursuing their ambitions?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-54",
+      "id": "builtin-0579",
+      "source": "bank"
+    },
+    {
+      "part": 2,
+      "topic": "Describe a time when you changed an important opinion of yours",
+      "text": "Describe a time when you changed an important opinion of yours",
+      "prompts": [
+        "When you changed your opinion",
+        "What the original opinion was",
+        "Why you changed it",
+        "And explain how you felt about the experience"
+      ],
+      "tag": "old",
+      "group": "group-55",
+      "id": "builtin-0580",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a time when you changed an important opinion of yours",
+      "text": "When do most children begin to have their own opinions?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-55",
+      "id": "builtin-0581",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a time when you changed an important opinion of yours",
+      "text": "Whose opinions are more important to children, their parents' or teachers'?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-55",
+      "id": "builtin-0582",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a time when you changed an important opinion of yours",
+      "text": "Do children communicate more with teachers or with parents?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-55",
+      "id": "builtin-0583",
+      "source": "bank"
+    },
+    {
+      "part": 3,
+      "topic": "Describe a time when you changed an important opinion of yours",
+      "text": "Who do young people like to share opinions with?",
+      "prompts": [],
+      "tag": "old",
+      "group": "group-55",
+      "id": "builtin-0584",
+      "source": "bank"
+    }
+  ]
+}
